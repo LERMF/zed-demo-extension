@@ -1,0 +1,25 @@
+# Rust
+/target/
+Cargo.lock
+*.rlib
+*.rmeta
+*.wasm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Zed
+.zed/
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+*.exe
