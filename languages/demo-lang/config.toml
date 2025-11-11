@@ -1,0 +1,10 @@
+name = "Demo Language"
+grammar = "tree-sitter-demo"
+path_suffixes = ["demo", "dml"]
+
+[[language_servers]]
+language_server_id = "demo-lsp"
+
+[indent]
+tab_size = 2
+hard_tabs = false

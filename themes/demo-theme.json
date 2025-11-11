@@ -1,0 +1,29 @@
+{
+  "name": "Demo Theme",
+  "author": "LERMF",
+  "type": "dark",
+  "colors": {
+    "background": "#1e1e1e",
+    "foreground": "#d4d4d4",
+    "accent": "#007acc",
+    "comment": "#6a9955",
+    "string": "#ce9178",
+    "number": "#b5cea8",
+    "keyword": "#569cd6",
+    "function": "#dcdcaa",
+    "variable": "#9cdcfe",
+    "error": "#f44747"
+  },
+  "workspace": {
+    "background": "#252526",
+    "foreground": "#cccccc"
+  },
+  "editor": {
+    "background": "#1e1e1e",
+    "foreground": "#d4d4d4",
+    "line_number": "#858585",
+    "selection": "#264f78",
+    "cursor": "#aeafad",
+    "gutter": "#1e1e1e"
+  }
+}
