@@ -1,0 +1,7 @@
+id = "demo-extension"
+name = "Demo Extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["LERMF <user@example.com>"]
+description = "A comprehensive demo extension for Zed editor showcasing best practices"
+repository = "https://github.com/LERMF/zed-demo-extension"
